@@ -1,0 +1,104 @@
+{
+  "treinamentos": [
+    {
+      "nomeTreinamento": "Big Data com Hadoop",
+      "duracaoHoras": 28
+    },
+    {
+      "nomeTreinamento": "iOS Development com Swift",
+      "duracaoHoras": 22
+    },
+    {
+      "nomeTreinamento": "Arquitetura de Microserviços",
+      "duracaoHoras": 20
+    },
+    {
+      "nomeTreinamento": "Inteligência Artificial com TensorFlow",
+      "duracaoHoras": 32
+    },
+    {
+      "nomeTreinamento": "Data Science com R",
+      "duracaoHoras": 25
+    },
+    {
+      "nomeTreinamento": "Blockchain Essentials",
+      "duracaoHoras": 12
+    },
+    {
+      "nomeTreinamento": "Continuous Delivery com GitLab",
+      "duracaoHoras": 14
+    },
+    {
+      "nomeTreinamento": "Desenvolvimento Fullstack com MERN",
+      "duracaoHoras": 30
+    },
+    {
+      "nomeTreinamento": "Vue.js para Iniciantes",
+      "duracaoHoras": 16
+    },
+    {
+      "nomeTreinamento": "E-commerce com Magento",
+      "duracaoHoras": 18
+    },
+    {
+      "nomeTreinamento": "Marketing Digital para Desenvolvedores",
+      "duracaoHoras": 10
+    },
+    {
+      "nomeTreinamento": "Design de Interfaces com Figma",
+      "duracaoHoras": 12
+    },
+    {
+      "nomeTreinamento": "Automação de Infraestrutura com Ansible",
+      "duracaoHoras": 15
+    },
+    {
+      "nomeTreinamento": "Programação Orientada a Objetos com C#",
+      "duracaoHoras": 18
+    },
+    {
+      "nomeTreinamento": "Prototipagem Rápida com Balsamiq",
+      "duracaoHoras": 6
+    },
+    {
+      "nomeTreinamento": "Desenvolvimento de Jogos com Unity",
+      "duracaoHoras": 28
+    },
+    {
+      "nomeTreinamento": "Automação de Processos com RPA",
+      "duracaoHoras": 14
+    },
+    {
+      "nomeTreinamento": "Computação em Nuvem com AWS",
+      "duracaoHoras": 24
+    },
+    {
+      "nomeTreinamento": "Administração de Redes com Cisco",
+      "duracaoHoras": 20
+    },
+    {
+      "nomeTreinamento": "Segurança da Informação com ISO 27001",
+      "duracaoHoras": 16
+    },
+    {
+      "nomeTreinamento": "Java para Web com Spring Boot",
+      "duracaoHoras": 18
+    },
+    {
+      "nomeTreinamento": "Programação com Ruby on Rails",
+      "duracaoHoras": 14
+    },
+    {
+      "nomeTreinamento": "Testes Automatizados com Cypress",
+      "duracaoHoras": 12
+    },
+    {
+      "nomeTreinamento": "Desenvolvimento Backend com Node.js",
+      "duracaoHoras": 20
+    },
+    {
+      "nomeTreinamento": "Gerenciamento de Configuração com Puppet",
+      "duracaoHoras": 16
+    }
+  ]
+}
